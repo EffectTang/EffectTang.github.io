@@ -11,7 +11,7 @@
     "test": "./node_modules/typescript/bin/tsc index.ts"
   },
   "devDependencies": {
-    "serve": "^1.4.0",
+    "serve": "^11.3.2",
     "typescript": "^1.4.1"
   }
 }
